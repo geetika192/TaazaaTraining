@@ -1,0 +1,16 @@
+C:\taazaa\day7\Practice\bin\Debug\net5.0\Practice.exe
+C:\taazaa\day7\Practice\bin\Debug\net5.0\Practice.deps.json
+C:\taazaa\day7\Practice\bin\Debug\net5.0\Practice.runtimeconfig.json
+C:\taazaa\day7\Practice\bin\Debug\net5.0\Practice.runtimeconfig.dev.json
+C:\taazaa\day7\Practice\bin\Debug\net5.0\Practice.dll
+C:\taazaa\day7\Practice\bin\Debug\net5.0\ref\Practice.dll
+C:\taazaa\day7\Practice\bin\Debug\net5.0\Practice.pdb
+C:\taazaa\day7\Practice\obj\Debug\net5.0\Practice.csproj.AssemblyReference.cache
+C:\taazaa\day7\Practice\obj\Debug\net5.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\taazaa\day7\Practice\obj\Debug\net5.0\Practice.AssemblyInfoInputs.cache
+C:\taazaa\day7\Practice\obj\Debug\net5.0\Practice.AssemblyInfo.cs
+C:\taazaa\day7\Practice\obj\Debug\net5.0\Practice.csproj.CoreCompileInputs.cache
+C:\taazaa\day7\Practice\obj\Debug\net5.0\Practice.dll
+C:\taazaa\day7\Practice\obj\Debug\net5.0\ref\Practice.dll
+C:\taazaa\day7\Practice\obj\Debug\net5.0\Practice.pdb
+C:\taazaa\day7\Practice\obj\Debug\net5.0\Practice.genruntimeconfig.cache

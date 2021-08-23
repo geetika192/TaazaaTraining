@@ -1,0 +1,16 @@
+E:\taazaa Traning\Collectionp\bin\Debug\net5.0\Collectionp.exe
+E:\taazaa Traning\Collectionp\bin\Debug\net5.0\Collectionp.deps.json
+E:\taazaa Traning\Collectionp\bin\Debug\net5.0\Collectionp.runtimeconfig.json
+E:\taazaa Traning\Collectionp\bin\Debug\net5.0\Collectionp.runtimeconfig.dev.json
+E:\taazaa Traning\Collectionp\bin\Debug\net5.0\Collectionp.dll
+E:\taazaa Traning\Collectionp\bin\Debug\net5.0\ref\Collectionp.dll
+E:\taazaa Traning\Collectionp\bin\Debug\net5.0\Collectionp.pdb
+E:\taazaa Traning\Collectionp\obj\Debug\net5.0\Collectionp.csproj.AssemblyReference.cache
+E:\taazaa Traning\Collectionp\obj\Debug\net5.0\Collectionp.GeneratedMSBuildEditorConfig.editorconfig
+E:\taazaa Traning\Collectionp\obj\Debug\net5.0\Collectionp.AssemblyInfoInputs.cache
+E:\taazaa Traning\Collectionp\obj\Debug\net5.0\Collectionp.AssemblyInfo.cs
+E:\taazaa Traning\Collectionp\obj\Debug\net5.0\Collectionp.csproj.CoreCompileInputs.cache
+E:\taazaa Traning\Collectionp\obj\Debug\net5.0\Collectionp.dll
+E:\taazaa Traning\Collectionp\obj\Debug\net5.0\ref\Collectionp.dll
+E:\taazaa Traning\Collectionp\obj\Debug\net5.0\Collectionp.pdb
+E:\taazaa Traning\Collectionp\obj\Debug\net5.0\Collectionp.genruntimeconfig.cache

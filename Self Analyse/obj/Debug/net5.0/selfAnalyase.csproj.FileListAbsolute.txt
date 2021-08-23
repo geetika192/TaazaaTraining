@@ -1,0 +1,16 @@
+C:\taazaa\selfAnalyase\bin\Debug\net5.0\selfAnalyase.exe
+C:\taazaa\selfAnalyase\bin\Debug\net5.0\selfAnalyase.deps.json
+C:\taazaa\selfAnalyase\bin\Debug\net5.0\selfAnalyase.runtimeconfig.json
+C:\taazaa\selfAnalyase\bin\Debug\net5.0\selfAnalyase.runtimeconfig.dev.json
+C:\taazaa\selfAnalyase\bin\Debug\net5.0\selfAnalyase.dll
+C:\taazaa\selfAnalyase\bin\Debug\net5.0\ref\selfAnalyase.dll
+C:\taazaa\selfAnalyase\bin\Debug\net5.0\selfAnalyase.pdb
+C:\taazaa\selfAnalyase\obj\Debug\net5.0\selfAnalyase.csproj.AssemblyReference.cache
+C:\taazaa\selfAnalyase\obj\Debug\net5.0\selfAnalyase.GeneratedMSBuildEditorConfig.editorconfig
+C:\taazaa\selfAnalyase\obj\Debug\net5.0\selfAnalyase.AssemblyInfoInputs.cache
+C:\taazaa\selfAnalyase\obj\Debug\net5.0\selfAnalyase.AssemblyInfo.cs
+C:\taazaa\selfAnalyase\obj\Debug\net5.0\selfAnalyase.csproj.CoreCompileInputs.cache
+C:\taazaa\selfAnalyase\obj\Debug\net5.0\selfAnalyase.dll
+C:\taazaa\selfAnalyase\obj\Debug\net5.0\ref\selfAnalyase.dll
+C:\taazaa\selfAnalyase\obj\Debug\net5.0\selfAnalyase.pdb
+C:\taazaa\selfAnalyase\obj\Debug\net5.0\selfAnalyase.genruntimeconfig.cache

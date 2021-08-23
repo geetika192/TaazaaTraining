@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\day5\collectiona\Assign\bin\Debug\net5.0\Assign.exe
+C:\Users\GEETIKA\day5\collectiona\Assign\bin\Debug\net5.0\Assign.deps.json
+C:\Users\GEETIKA\day5\collectiona\Assign\bin\Debug\net5.0\Assign.runtimeconfig.json
+C:\Users\GEETIKA\day5\collectiona\Assign\bin\Debug\net5.0\Assign.runtimeconfig.dev.json
+C:\Users\GEETIKA\day5\collectiona\Assign\bin\Debug\net5.0\Assign.dll
+C:\Users\GEETIKA\day5\collectiona\Assign\bin\Debug\net5.0\ref\Assign.dll
+C:\Users\GEETIKA\day5\collectiona\Assign\bin\Debug\net5.0\Assign.pdb
+C:\Users\GEETIKA\day5\collectiona\Assign\obj\Debug\net5.0\Assign.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\day5\collectiona\Assign\obj\Debug\net5.0\Assign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\day5\collectiona\Assign\obj\Debug\net5.0\Assign.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\day5\collectiona\Assign\obj\Debug\net5.0\Assign.AssemblyInfo.cs
+C:\Users\GEETIKA\day5\collectiona\Assign\obj\Debug\net5.0\Assign.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\day5\collectiona\Assign\obj\Debug\net5.0\Assign.dll
+C:\Users\GEETIKA\day5\collectiona\Assign\obj\Debug\net5.0\ref\Assign.dll
+C:\Users\GEETIKA\day5\collectiona\Assign\obj\Debug\net5.0\Assign.pdb
+C:\Users\GEETIKA\day5\collectiona\Assign\obj\Debug\net5.0\Assign.genruntimeconfig.cache

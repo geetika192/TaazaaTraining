@@ -1,0 +1,16 @@
+C:\taazaa\day7\deligatepractice\bin\Debug\net5.0\deligatepractice.exe
+C:\taazaa\day7\deligatepractice\bin\Debug\net5.0\deligatepractice.deps.json
+C:\taazaa\day7\deligatepractice\bin\Debug\net5.0\deligatepractice.runtimeconfig.json
+C:\taazaa\day7\deligatepractice\bin\Debug\net5.0\deligatepractice.runtimeconfig.dev.json
+C:\taazaa\day7\deligatepractice\bin\Debug\net5.0\deligatepractice.dll
+C:\taazaa\day7\deligatepractice\bin\Debug\net5.0\ref\deligatepractice.dll
+C:\taazaa\day7\deligatepractice\bin\Debug\net5.0\deligatepractice.pdb
+C:\taazaa\day7\deligatepractice\obj\Debug\net5.0\deligatepractice.csproj.AssemblyReference.cache
+C:\taazaa\day7\deligatepractice\obj\Debug\net5.0\deligatepractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\taazaa\day7\deligatepractice\obj\Debug\net5.0\deligatepractice.AssemblyInfoInputs.cache
+C:\taazaa\day7\deligatepractice\obj\Debug\net5.0\deligatepractice.AssemblyInfo.cs
+C:\taazaa\day7\deligatepractice\obj\Debug\net5.0\deligatepractice.csproj.CoreCompileInputs.cache
+C:\taazaa\day7\deligatepractice\obj\Debug\net5.0\deligatepractice.dll
+C:\taazaa\day7\deligatepractice\obj\Debug\net5.0\ref\deligatepractice.dll
+C:\taazaa\day7\deligatepractice\obj\Debug\net5.0\deligatepractice.pdb
+C:\taazaa\day7\deligatepractice\obj\Debug\net5.0\deligatepractice.genruntimeconfig.cache

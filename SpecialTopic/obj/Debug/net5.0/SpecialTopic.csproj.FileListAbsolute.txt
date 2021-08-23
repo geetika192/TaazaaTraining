@@ -1,0 +1,16 @@
+E:\taazaa Traning\SpecialTopic\bin\Debug\net5.0\SpecialTopic.exe
+E:\taazaa Traning\SpecialTopic\bin\Debug\net5.0\SpecialTopic.deps.json
+E:\taazaa Traning\SpecialTopic\bin\Debug\net5.0\SpecialTopic.runtimeconfig.json
+E:\taazaa Traning\SpecialTopic\bin\Debug\net5.0\SpecialTopic.runtimeconfig.dev.json
+E:\taazaa Traning\SpecialTopic\bin\Debug\net5.0\SpecialTopic.dll
+E:\taazaa Traning\SpecialTopic\bin\Debug\net5.0\ref\SpecialTopic.dll
+E:\taazaa Traning\SpecialTopic\bin\Debug\net5.0\SpecialTopic.pdb
+E:\taazaa Traning\SpecialTopic\obj\Debug\net5.0\SpecialTopic.csproj.AssemblyReference.cache
+E:\taazaa Traning\SpecialTopic\obj\Debug\net5.0\SpecialTopic.GeneratedMSBuildEditorConfig.editorconfig
+E:\taazaa Traning\SpecialTopic\obj\Debug\net5.0\SpecialTopic.AssemblyInfoInputs.cache
+E:\taazaa Traning\SpecialTopic\obj\Debug\net5.0\SpecialTopic.AssemblyInfo.cs
+E:\taazaa Traning\SpecialTopic\obj\Debug\net5.0\SpecialTopic.csproj.CoreCompileInputs.cache
+E:\taazaa Traning\SpecialTopic\obj\Debug\net5.0\SpecialTopic.dll
+E:\taazaa Traning\SpecialTopic\obj\Debug\net5.0\ref\SpecialTopic.dll
+E:\taazaa Traning\SpecialTopic\obj\Debug\net5.0\SpecialTopic.pdb
+E:\taazaa Traning\SpecialTopic\obj\Debug\net5.0\SpecialTopic.genruntimeconfig.cache

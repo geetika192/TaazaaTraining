@@ -1,0 +1,16 @@
+E:\taazaa Traning\Optionalp\bin\Debug\net5.0\Optionalp.exe
+E:\taazaa Traning\Optionalp\bin\Debug\net5.0\Optionalp.deps.json
+E:\taazaa Traning\Optionalp\bin\Debug\net5.0\Optionalp.runtimeconfig.json
+E:\taazaa Traning\Optionalp\bin\Debug\net5.0\Optionalp.runtimeconfig.dev.json
+E:\taazaa Traning\Optionalp\bin\Debug\net5.0\Optionalp.dll
+E:\taazaa Traning\Optionalp\bin\Debug\net5.0\ref\Optionalp.dll
+E:\taazaa Traning\Optionalp\bin\Debug\net5.0\Optionalp.pdb
+E:\taazaa Traning\Optionalp\obj\Debug\net5.0\Optionalp.csproj.AssemblyReference.cache
+E:\taazaa Traning\Optionalp\obj\Debug\net5.0\Optionalp.GeneratedMSBuildEditorConfig.editorconfig
+E:\taazaa Traning\Optionalp\obj\Debug\net5.0\Optionalp.AssemblyInfoInputs.cache
+E:\taazaa Traning\Optionalp\obj\Debug\net5.0\Optionalp.AssemblyInfo.cs
+E:\taazaa Traning\Optionalp\obj\Debug\net5.0\Optionalp.csproj.CoreCompileInputs.cache
+E:\taazaa Traning\Optionalp\obj\Debug\net5.0\Optionalp.dll
+E:\taazaa Traning\Optionalp\obj\Debug\net5.0\ref\Optionalp.dll
+E:\taazaa Traning\Optionalp\obj\Debug\net5.0\Optionalp.pdb
+E:\taazaa Traning\Optionalp\obj\Debug\net5.0\Optionalp.genruntimeconfig.cache

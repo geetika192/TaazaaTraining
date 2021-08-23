@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\dayy3\bin\Debug\net5.0\dayy3.exe
+C:\Users\GEETIKA\dayy3\bin\Debug\net5.0\dayy3.deps.json
+C:\Users\GEETIKA\dayy3\bin\Debug\net5.0\dayy3.runtimeconfig.json
+C:\Users\GEETIKA\dayy3\bin\Debug\net5.0\dayy3.runtimeconfig.dev.json
+C:\Users\GEETIKA\dayy3\bin\Debug\net5.0\dayy3.dll
+C:\Users\GEETIKA\dayy3\bin\Debug\net5.0\ref\dayy3.dll
+C:\Users\GEETIKA\dayy3\bin\Debug\net5.0\dayy3.pdb
+C:\Users\GEETIKA\dayy3\obj\Debug\net5.0\dayy3.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\dayy3\obj\Debug\net5.0\dayy3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\dayy3\obj\Debug\net5.0\dayy3.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\dayy3\obj\Debug\net5.0\dayy3.AssemblyInfo.cs
+C:\Users\GEETIKA\dayy3\obj\Debug\net5.0\dayy3.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\dayy3\obj\Debug\net5.0\dayy3.dll
+C:\Users\GEETIKA\dayy3\obj\Debug\net5.0\ref\dayy3.dll
+C:\Users\GEETIKA\dayy3\obj\Debug\net5.0\dayy3.pdb
+C:\Users\GEETIKA\dayy3\obj\Debug\net5.0\dayy3.genruntimeconfig.cache

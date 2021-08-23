@@ -1,0 +1,16 @@
+C:\Users\GEETIKA\day5\day5\bin\Debug\net5.0\day5.exe
+C:\Users\GEETIKA\day5\day5\bin\Debug\net5.0\day5.deps.json
+C:\Users\GEETIKA\day5\day5\bin\Debug\net5.0\day5.runtimeconfig.json
+C:\Users\GEETIKA\day5\day5\bin\Debug\net5.0\day5.runtimeconfig.dev.json
+C:\Users\GEETIKA\day5\day5\bin\Debug\net5.0\day5.dll
+C:\Users\GEETIKA\day5\day5\bin\Debug\net5.0\ref\day5.dll
+C:\Users\GEETIKA\day5\day5\bin\Debug\net5.0\day5.pdb
+C:\Users\GEETIKA\day5\day5\obj\Debug\net5.0\day5.csproj.AssemblyReference.cache
+C:\Users\GEETIKA\day5\day5\obj\Debug\net5.0\day5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEETIKA\day5\day5\obj\Debug\net5.0\day5.AssemblyInfoInputs.cache
+C:\Users\GEETIKA\day5\day5\obj\Debug\net5.0\day5.AssemblyInfo.cs
+C:\Users\GEETIKA\day5\day5\obj\Debug\net5.0\day5.csproj.CoreCompileInputs.cache
+C:\Users\GEETIKA\day5\day5\obj\Debug\net5.0\day5.dll
+C:\Users\GEETIKA\day5\day5\obj\Debug\net5.0\ref\day5.dll
+C:\Users\GEETIKA\day5\day5\obj\Debug\net5.0\day5.pdb
+C:\Users\GEETIKA\day5\day5\obj\Debug\net5.0\day5.genruntimeconfig.cache

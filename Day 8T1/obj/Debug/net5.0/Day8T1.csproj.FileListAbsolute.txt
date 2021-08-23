@@ -1,0 +1,16 @@
+E:\taazaa Traning\Day8T1\bin\Debug\net5.0\Day8T1.exe
+E:\taazaa Traning\Day8T1\bin\Debug\net5.0\Day8T1.deps.json
+E:\taazaa Traning\Day8T1\bin\Debug\net5.0\Day8T1.runtimeconfig.json
+E:\taazaa Traning\Day8T1\bin\Debug\net5.0\Day8T1.runtimeconfig.dev.json
+E:\taazaa Traning\Day8T1\bin\Debug\net5.0\Day8T1.dll
+E:\taazaa Traning\Day8T1\bin\Debug\net5.0\ref\Day8T1.dll
+E:\taazaa Traning\Day8T1\bin\Debug\net5.0\Day8T1.pdb
+E:\taazaa Traning\Day8T1\obj\Debug\net5.0\Day8T1.csproj.AssemblyReference.cache
+E:\taazaa Traning\Day8T1\obj\Debug\net5.0\Day8T1.GeneratedMSBuildEditorConfig.editorconfig
+E:\taazaa Traning\Day8T1\obj\Debug\net5.0\Day8T1.AssemblyInfoInputs.cache
+E:\taazaa Traning\Day8T1\obj\Debug\net5.0\Day8T1.AssemblyInfo.cs
+E:\taazaa Traning\Day8T1\obj\Debug\net5.0\Day8T1.csproj.CoreCompileInputs.cache
+E:\taazaa Traning\Day8T1\obj\Debug\net5.0\Day8T1.dll
+E:\taazaa Traning\Day8T1\obj\Debug\net5.0\ref\Day8T1.dll
+E:\taazaa Traning\Day8T1\obj\Debug\net5.0\Day8T1.pdb
+E:\taazaa Traning\Day8T1\obj\Debug\net5.0\Day8T1.genruntimeconfig.cache
