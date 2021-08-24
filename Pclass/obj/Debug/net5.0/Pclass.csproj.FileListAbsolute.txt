@@ -1,0 +1,16 @@
+E:\TaazaaTraining\Pclass\bin\Debug\net5.0\Pclass.exe
+E:\TaazaaTraining\Pclass\bin\Debug\net5.0\Pclass.deps.json
+E:\TaazaaTraining\Pclass\bin\Debug\net5.0\Pclass.runtimeconfig.json
+E:\TaazaaTraining\Pclass\bin\Debug\net5.0\Pclass.runtimeconfig.dev.json
+E:\TaazaaTraining\Pclass\bin\Debug\net5.0\Pclass.dll
+E:\TaazaaTraining\Pclass\bin\Debug\net5.0\ref\Pclass.dll
+E:\TaazaaTraining\Pclass\bin\Debug\net5.0\Pclass.pdb
+E:\TaazaaTraining\Pclass\obj\Debug\net5.0\Pclass.csproj.AssemblyReference.cache
+E:\TaazaaTraining\Pclass\obj\Debug\net5.0\Pclass.GeneratedMSBuildEditorConfig.editorconfig
+E:\TaazaaTraining\Pclass\obj\Debug\net5.0\Pclass.AssemblyInfoInputs.cache
+E:\TaazaaTraining\Pclass\obj\Debug\net5.0\Pclass.AssemblyInfo.cs
+E:\TaazaaTraining\Pclass\obj\Debug\net5.0\Pclass.csproj.CoreCompileInputs.cache
+E:\TaazaaTraining\Pclass\obj\Debug\net5.0\Pclass.dll
+E:\TaazaaTraining\Pclass\obj\Debug\net5.0\ref\Pclass.dll
+E:\TaazaaTraining\Pclass\obj\Debug\net5.0\Pclass.pdb
+E:\TaazaaTraining\Pclass\obj\Debug\net5.0\Pclass.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\TaazaaTraining\Exceptionandling\bin\Debug\net5.0\Exceptionandling.exe
+E:\TaazaaTraining\Exceptionandling\bin\Debug\net5.0\Exceptionandling.deps.json
+E:\TaazaaTraining\Exceptionandling\bin\Debug\net5.0\Exceptionandling.runtimeconfig.json
+E:\TaazaaTraining\Exceptionandling\bin\Debug\net5.0\Exceptionandling.runtimeconfig.dev.json
+E:\TaazaaTraining\Exceptionandling\bin\Debug\net5.0\Exceptionandling.dll
+E:\TaazaaTraining\Exceptionandling\bin\Debug\net5.0\ref\Exceptionandling.dll
+E:\TaazaaTraining\Exceptionandling\bin\Debug\net5.0\Exceptionandling.pdb
+E:\TaazaaTraining\Exceptionandling\obj\Debug\net5.0\Exceptionandling.csproj.AssemblyReference.cache
+E:\TaazaaTraining\Exceptionandling\obj\Debug\net5.0\Exceptionandling.GeneratedMSBuildEditorConfig.editorconfig
+E:\TaazaaTraining\Exceptionandling\obj\Debug\net5.0\Exceptionandling.AssemblyInfoInputs.cache
+E:\TaazaaTraining\Exceptionandling\obj\Debug\net5.0\Exceptionandling.AssemblyInfo.cs
+E:\TaazaaTraining\Exceptionandling\obj\Debug\net5.0\Exceptionandling.csproj.CoreCompileInputs.cache
+E:\TaazaaTraining\Exceptionandling\obj\Debug\net5.0\Exceptionandling.dll
+E:\TaazaaTraining\Exceptionandling\obj\Debug\net5.0\ref\Exceptionandling.dll
+E:\TaazaaTraining\Exceptionandling\obj\Debug\net5.0\Exceptionandling.pdb
+E:\TaazaaTraining\Exceptionandling\obj\Debug\net5.0\Exceptionandling.genruntimeconfig.cache

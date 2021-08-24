@@ -1,0 +1,16 @@
+E:\TaazaaTraining\practiceList\bin\Debug\net5.0\practiceList.exe
+E:\TaazaaTraining\practiceList\bin\Debug\net5.0\practiceList.deps.json
+E:\TaazaaTraining\practiceList\bin\Debug\net5.0\practiceList.runtimeconfig.json
+E:\TaazaaTraining\practiceList\bin\Debug\net5.0\practiceList.runtimeconfig.dev.json
+E:\TaazaaTraining\practiceList\bin\Debug\net5.0\practiceList.dll
+E:\TaazaaTraining\practiceList\bin\Debug\net5.0\ref\practiceList.dll
+E:\TaazaaTraining\practiceList\bin\Debug\net5.0\practiceList.pdb
+E:\TaazaaTraining\practiceList\obj\Debug\net5.0\practiceList.csproj.AssemblyReference.cache
+E:\TaazaaTraining\practiceList\obj\Debug\net5.0\practiceList.GeneratedMSBuildEditorConfig.editorconfig
+E:\TaazaaTraining\practiceList\obj\Debug\net5.0\practiceList.AssemblyInfoInputs.cache
+E:\TaazaaTraining\practiceList\obj\Debug\net5.0\practiceList.AssemblyInfo.cs
+E:\TaazaaTraining\practiceList\obj\Debug\net5.0\practiceList.csproj.CoreCompileInputs.cache
+E:\TaazaaTraining\practiceList\obj\Debug\net5.0\practiceList.dll
+E:\TaazaaTraining\practiceList\obj\Debug\net5.0\ref\practiceList.dll
+E:\TaazaaTraining\practiceList\obj\Debug\net5.0\practiceList.pdb
+E:\TaazaaTraining\practiceList\obj\Debug\net5.0\practiceList.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\taazaa Traning\\Day8T1\\Day8T1.csproj",
+      "projectUniqueName": "E:\\TaazaaTraining\\Day 8T1\\Day8T1.csproj",
       "projectName": "Day8T1",
-      "projectPath": "E:\\taazaa Traning\\Day8T1\\Day8T1.csproj",
+      "projectPath": "E:\\TaazaaTraining\\Day 8T1\\Day8T1.csproj",
       "packagesPath": "C:\\Users\\GEETIKA\\.nuget\\packages\\",
-      "outputPath": "E:\\taazaa Traning\\Day8T1\\obj\\",
+      "outputPath": "E:\\TaazaaTraining\\Day 8T1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GEETIKA\\AppData\\Roaming\\NuGet\\NuGet.Config"
