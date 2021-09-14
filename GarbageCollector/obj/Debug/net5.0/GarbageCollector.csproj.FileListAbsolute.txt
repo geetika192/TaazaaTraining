@@ -1,0 +1,16 @@
+E:\TaazaaTraining\GarbageCollector\bin\Debug\net5.0\GarbageCollector.exe
+E:\TaazaaTraining\GarbageCollector\bin\Debug\net5.0\GarbageCollector.deps.json
+E:\TaazaaTraining\GarbageCollector\bin\Debug\net5.0\GarbageCollector.runtimeconfig.json
+E:\TaazaaTraining\GarbageCollector\bin\Debug\net5.0\GarbageCollector.runtimeconfig.dev.json
+E:\TaazaaTraining\GarbageCollector\bin\Debug\net5.0\GarbageCollector.dll
+E:\TaazaaTraining\GarbageCollector\bin\Debug\net5.0\ref\GarbageCollector.dll
+E:\TaazaaTraining\GarbageCollector\bin\Debug\net5.0\GarbageCollector.pdb
+E:\TaazaaTraining\GarbageCollector\obj\Debug\net5.0\GarbageCollector.csproj.AssemblyReference.cache
+E:\TaazaaTraining\GarbageCollector\obj\Debug\net5.0\GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+E:\TaazaaTraining\GarbageCollector\obj\Debug\net5.0\GarbageCollector.AssemblyInfoInputs.cache
+E:\TaazaaTraining\GarbageCollector\obj\Debug\net5.0\GarbageCollector.AssemblyInfo.cs
+E:\TaazaaTraining\GarbageCollector\obj\Debug\net5.0\GarbageCollector.csproj.CoreCompileInputs.cache
+E:\TaazaaTraining\GarbageCollector\obj\Debug\net5.0\GarbageCollector.dll
+E:\TaazaaTraining\GarbageCollector\obj\Debug\net5.0\ref\GarbageCollector.dll
+E:\TaazaaTraining\GarbageCollector\obj\Debug\net5.0\GarbageCollector.pdb
+E:\TaazaaTraining\GarbageCollector\obj\Debug\net5.0\GarbageCollector.genruntimeconfig.cache

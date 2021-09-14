@@ -1,0 +1,16 @@
+E:\TaazaaTraining\Day12\indexerp\bin\Debug\net5.0\indexerp.exe
+E:\TaazaaTraining\Day12\indexerp\bin\Debug\net5.0\indexerp.deps.json
+E:\TaazaaTraining\Day12\indexerp\bin\Debug\net5.0\indexerp.runtimeconfig.json
+E:\TaazaaTraining\Day12\indexerp\bin\Debug\net5.0\indexerp.runtimeconfig.dev.json
+E:\TaazaaTraining\Day12\indexerp\bin\Debug\net5.0\indexerp.dll
+E:\TaazaaTraining\Day12\indexerp\bin\Debug\net5.0\ref\indexerp.dll
+E:\TaazaaTraining\Day12\indexerp\bin\Debug\net5.0\indexerp.pdb
+E:\TaazaaTraining\Day12\indexerp\obj\Debug\net5.0\indexerp.csproj.AssemblyReference.cache
+E:\TaazaaTraining\Day12\indexerp\obj\Debug\net5.0\indexerp.GeneratedMSBuildEditorConfig.editorconfig
+E:\TaazaaTraining\Day12\indexerp\obj\Debug\net5.0\indexerp.AssemblyInfoInputs.cache
+E:\TaazaaTraining\Day12\indexerp\obj\Debug\net5.0\indexerp.AssemblyInfo.cs
+E:\TaazaaTraining\Day12\indexerp\obj\Debug\net5.0\indexerp.csproj.CoreCompileInputs.cache
+E:\TaazaaTraining\Day12\indexerp\obj\Debug\net5.0\indexerp.dll
+E:\TaazaaTraining\Day12\indexerp\obj\Debug\net5.0\ref\indexerp.dll
+E:\TaazaaTraining\Day12\indexerp\obj\Debug\net5.0\indexerp.pdb
+E:\TaazaaTraining\Day12\indexerp\obj\Debug\net5.0\indexerp.genruntimeconfig.cache

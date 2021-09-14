@@ -20,14 +20,14 @@ namespace Day8T
             var temp1=studyDelegate.Invoke();
             System.Console.WriteLine(temp1);
  */
-            Func<string,string> func=study.Name;
+            Func<string,string> func=study.Name;   //func = string , int 
             string temp=func("Geetika");
             System.Console.WriteLine(temp);
 
-            Action action = study.PhoneNumber;
+            Action action = study.PhoneNumber;   //void
             action();
 
-            Predicate<string> predicate=study.StudyStatus;
+            Predicate<string> predicate=study.StudyStatus;   //boolean
             System.Console.WriteLine(predicate("geetu"));   
 
         }

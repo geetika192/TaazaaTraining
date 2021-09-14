@@ -1,0 +1,16 @@
+E:\TaazaaTraining\TplProgram\bin\Debug\net5.0\TplProgram.exe
+E:\TaazaaTraining\TplProgram\bin\Debug\net5.0\TplProgram.deps.json
+E:\TaazaaTraining\TplProgram\bin\Debug\net5.0\TplProgram.runtimeconfig.json
+E:\TaazaaTraining\TplProgram\bin\Debug\net5.0\TplProgram.runtimeconfig.dev.json
+E:\TaazaaTraining\TplProgram\bin\Debug\net5.0\TplProgram.dll
+E:\TaazaaTraining\TplProgram\bin\Debug\net5.0\ref\TplProgram.dll
+E:\TaazaaTraining\TplProgram\bin\Debug\net5.0\TplProgram.pdb
+E:\TaazaaTraining\TplProgram\obj\Debug\net5.0\TplProgram.csproj.AssemblyReference.cache
+E:\TaazaaTraining\TplProgram\obj\Debug\net5.0\TplProgram.GeneratedMSBuildEditorConfig.editorconfig
+E:\TaazaaTraining\TplProgram\obj\Debug\net5.0\TplProgram.AssemblyInfoInputs.cache
+E:\TaazaaTraining\TplProgram\obj\Debug\net5.0\TplProgram.AssemblyInfo.cs
+E:\TaazaaTraining\TplProgram\obj\Debug\net5.0\TplProgram.csproj.CoreCompileInputs.cache
+E:\TaazaaTraining\TplProgram\obj\Debug\net5.0\TplProgram.dll
+E:\TaazaaTraining\TplProgram\obj\Debug\net5.0\ref\TplProgram.dll
+E:\TaazaaTraining\TplProgram\obj\Debug\net5.0\TplProgram.pdb
+E:\TaazaaTraining\TplProgram\obj\Debug\net5.0\TplProgram.genruntimeconfig.cache

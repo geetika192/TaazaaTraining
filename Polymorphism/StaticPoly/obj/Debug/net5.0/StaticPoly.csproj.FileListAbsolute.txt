@@ -1,0 +1,16 @@
+E:\TaazaaTraining\Polymorphism\StaticPoly\bin\Debug\net5.0\StaticPoly.exe
+E:\TaazaaTraining\Polymorphism\StaticPoly\bin\Debug\net5.0\StaticPoly.deps.json
+E:\TaazaaTraining\Polymorphism\StaticPoly\bin\Debug\net5.0\StaticPoly.runtimeconfig.json
+E:\TaazaaTraining\Polymorphism\StaticPoly\bin\Debug\net5.0\StaticPoly.runtimeconfig.dev.json
+E:\TaazaaTraining\Polymorphism\StaticPoly\bin\Debug\net5.0\StaticPoly.dll
+E:\TaazaaTraining\Polymorphism\StaticPoly\bin\Debug\net5.0\ref\StaticPoly.dll
+E:\TaazaaTraining\Polymorphism\StaticPoly\bin\Debug\net5.0\StaticPoly.pdb
+E:\TaazaaTraining\Polymorphism\StaticPoly\obj\Debug\net5.0\StaticPoly.csproj.AssemblyReference.cache
+E:\TaazaaTraining\Polymorphism\StaticPoly\obj\Debug\net5.0\StaticPoly.GeneratedMSBuildEditorConfig.editorconfig
+E:\TaazaaTraining\Polymorphism\StaticPoly\obj\Debug\net5.0\StaticPoly.AssemblyInfoInputs.cache
+E:\TaazaaTraining\Polymorphism\StaticPoly\obj\Debug\net5.0\StaticPoly.AssemblyInfo.cs
+E:\TaazaaTraining\Polymorphism\StaticPoly\obj\Debug\net5.0\StaticPoly.csproj.CoreCompileInputs.cache
+E:\TaazaaTraining\Polymorphism\StaticPoly\obj\Debug\net5.0\StaticPoly.dll
+E:\TaazaaTraining\Polymorphism\StaticPoly\obj\Debug\net5.0\ref\StaticPoly.dll
+E:\TaazaaTraining\Polymorphism\StaticPoly\obj\Debug\net5.0\StaticPoly.pdb
+E:\TaazaaTraining\Polymorphism\StaticPoly\obj\Debug\net5.0\StaticPoly.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "DeJH/vr7YWBzF9z+L3jbta6nny+1ZLwM/XeekA25fQup2/y6OjpihlbDVqjYXjeQENLNijnXH7txjQr97tzWiQ==",
+  "success": true,
+  "projectFilePath": "E:\\TaazaaTraining\\practice\\practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GEETIKA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\GEETIKA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\GEETIKA\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\GEETIKA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\GEETIKA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\GEETIKA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
